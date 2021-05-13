@@ -9,21 +9,22 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>崔明珠的Gitup</title>
+    </head>
+    <body style="background-color: lightblue">
+        <h1>这是一个一个简单的HTML,h1
+            <p>Hello World！</p>
+        </h1>
+        <h2>这是CMZ的简单网页</h2>
+        <h3>内容有待补充</h3>
+        <h4>好好学习，天天向上</h4>
+        <h4>点击按钮，进入崔明珠的Gitup</h4>
+        <button onclick="window.location.href = 'https://github.com/1542203587CMZ/1542203587CMZ.githup.com'">崔明珠的Gitup</button>
+    </body>
+</html>
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
